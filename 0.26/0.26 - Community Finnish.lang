@@ -15,15 +15,15 @@
     },
     {
       "key": 21,
-      "value": "Manuaalinen"
+      "value": "Ohjekirja"
     },
     {
       "key": 22,
-      "value": "Vaihtoehdot"
+      "value": "Asetukset"
     },
     {
       "key": 23,
-      "value": "Toimittaja"
+      "value": "Muokkaus"
     },
     {
       "key": 24,
@@ -31,7 +31,7 @@
     },
     {
       "key": 25,
-      "value": "Krediitit"
+      "value": "Kunniat"
     },
     {
       "key": 26,
@@ -55,15 +55,15 @@
     },
     {
       "key": 7,
-      "value": "Off"
+      "value": "Pois"
     },
     {
       "key": 8,
-      "value": "Käytössä"
+      "value": "Päällä"
     },
     {
       "key": 9,
-      "value": "Vammaiset"
+      "value": "Pois"
     },
     {
       "key": 10,
@@ -95,7 +95,7 @@
     },
     {
       "key": 17,
-      "value": "Leikkiaika"
+      "value": "Pelattu aika"
     },
     {
       "key": 18,
@@ -115,11 +115,11 @@
     },
     {
       "key": 27,
-      "value": "Audio"
+      "value": "Ääni"
     },
     {
       "key": 28,
-      "value": "Video"
+      "value": "Näyttö"
     },
     {
       "key": 29,
@@ -143,7 +143,7 @@
     },
     {
       "key": 34,
-      "value": "Master Volume"
+      "value": "Pää-äänenvoimakkuus"
     },
     {
       "key": 35,
@@ -151,7 +151,7 @@
     },
     {
       "key": 36,
-      "value": "Tehosteet Äänenvoimakkuus"
+      "value": "Tehosteiden äänenvoimakkuus"
     },
     {
       "key": 37,
@@ -171,11 +171,11 @@
     },
     {
       "key": 41,
-      "value": "Näyttö Push-To-Talk Vihje"
+      "value": "Näyttä Push-To-Talk Vihje"
     },
     {
       "key": 42,
-      "value": "Toista morse-tulo"
+      "value": "Toista morse-koodi"
     },
     {
       "key": 43,
@@ -187,7 +187,7 @@
     },
     {
       "key": 45,
-      "value": "Vertikaalinen synkronointi"
+      "value": "Pystytahdistus"
     },
     {
       "key": 46,
@@ -207,7 +207,7 @@
     },
     {
       "key": 50,
-      "value": "Eksklusiivinen Fullscreen"
+      "value": "Kokoruutu"
     },
     {
       "key": 51,
@@ -223,11 +223,11 @@
     },
     {
       "key": 54,
-      "value": "Jokainen kehys"
+      "value": "Jokainen kuva"
     },
     {
       "key": 55,
-      "value": "Joka toinen kehys"
+      "value": "Joka toinen kuva"
     },
     {
       "key": 56,
@@ -239,7 +239,7 @@
     },
     {
       "key": 58,
-      "value": "Medium"
+      "value": "Keskitaso"
     },
     {
       "key": 59,
@@ -315,19 +315,19 @@
     },
     {
       "key": 77,
-      "value": "Valikon taustan peittävyys"
+      "value": "Valiko taustan peittävyys"
     },
     {
       "key": 78,
-      "value": "Vesipäätöslauselma"
+      "value": "Vesi resoluutio"
     },
     {
       "key": 79,
-      "value": "Vesiruiskun hiukkasten määrä"
+      "value": "Vesiruiskun partikkelien määrä"
     },
     {
       "key": 80,
-      "value": "Dynaaminen vaahto laatu"
+      "value": "Dynaamisen vaahdon laatu"
     },
     {
       "key": 81,
@@ -335,7 +335,7 @@
     },
     {
       "key": 82,
-      "value": "Näytön tilan Ambient Occlusion"
+      "value": "Näytön tilan ympäristö okkluusio"
     },
     {
       "key": 83,
@@ -343,7 +343,7 @@
     },
     {
       "key": 84,
-      "value": "Anti-Aliasing"
+      "value": "Reunanpehmennys"
     },
     {
       "key": 85,
@@ -351,7 +351,7 @@
     },
     {
       "key": 86,
-      "value": "Kirkkauden korjaus"
+      "value": "Kirkkauden säätö"
     },
     {
       "key": 87,
@@ -359,11 +359,11 @@
     },
     {
       "key": 88,
-      "value": "Liikkeen epätarkkuus"
+      "value": "Liikesumennus"
     },
     {
       "key": 89,
-      "value": "Syväterävyys"
+      "value": "Syvyysterävyysalue"
     },
     {
       "key": 90,
@@ -371,7 +371,7 @@
     },
     {
       "key": 91,
-      "value": "Avaa Kielet-kansio"
+      "value": "Avaa Kielet kansio"
     },
     {
       "key": 92,
@@ -383,11 +383,11 @@
     },
     {
       "key": 94,
-      "value": "Etsi aula"
+      "value": "Etsi peli"
     },
     {
       "key": 95,
-      "value": "Luo aula"
+      "value": "Luo peli"
     },
     {
       "key": 96,
@@ -395,7 +395,7 @@
     },
     {
       "key": 97,
-      "value": "Aulan etäisyys"
+      "value": "Pelin etäisyys"
     },
     {
       "key": 98,
@@ -403,11 +403,11 @@
     },
     {
       "key": 99,
-      "value": "Bots"
+      "value": "Botit"
     },
     {
       "key": 100,
-      "value": "Täydet aulatilat"
+      "value": "Täydet pelitilat"
     },
     {
       "key": 101,
@@ -427,7 +427,7 @@
     },
     {
       "key": 105,
-      "value": "Sulje"
+      "value": "Lähellä"
     },
     {
       "key": 106,
@@ -435,7 +435,7 @@
     },
     {
       "key": 107,
-      "value": "Far"
+      "value": "Kaukana"
     },
     {
       "key": 108,
@@ -491,7 +491,7 @@
     },
     {
       "key": 121,
-      "value": "Tilaukset"
+      "value": "Käskyt"
     },
     {
       "key": 122,
@@ -559,11 +559,11 @@
     },
     {
       "key": 138,
-      "value": "Ystävällinen tulitus"
+      "value": "Oma tuli"
     },
     {
       "key": 139,
-      "value": "Miehistön muut kuin pelaajan jäsenet"
+      "value": "Miehistön muut kuin pelaaja jäsenet"
     },
     {
       "key": 140,
@@ -611,7 +611,7 @@
     },
     {
       "key": 151,
-      "value": "Torpedon laukaisu riippuu kulmasta"
+      "value": "Torpedon räjähdys riippuu osuma kulmasta"
     },
     {
       "key": 152,
@@ -627,7 +627,7 @@
     },
     {
       "key": 155,
-      "value": "Tutorial"
+      "value": "Tutoriaali"
     },
     {
       "key": 156,
@@ -695,7 +695,7 @@
     },
     {
       "key": 172,
-      "value": "Torpedot laukaistu"
+      "value": "Torpedoja laukaistu"
     },
     {
       "key": 173,
@@ -707,15 +707,15 @@
     },
     {
       "key": 175,
-      "value": "Kauppiaat tuhottu"
+      "value": "Kauppalaivoja tuhottu"
     },
     {
       "key": 176,
-      "value": "Tuhoutuneet sota-alukset"
+      "value": "Sotalaivoja tuhottu"
     },
     {
       "key": 177,
-      "value": "Uppoama tonnisto"
+      "value": "Upotettu tonnisto"
     },
     {
       "key": 178,
@@ -739,7 +739,7 @@
     },
     {
       "key": 183,
-      "value": "Irrota"
+      "value": "Katkaise yhteys"
     },
     {
       "key": 184,
@@ -763,15 +763,15 @@
     },
     {
       "key": 189,
-      "value": "Suorita"
+      "value": "Juokse"
     },
     {
       "key": 190,
-      "value": "Toggle Kartta"
+      "value": "Avaa Kartta"
     },
     {
       "key": 191,
-      "value": "Näytä yhdistetyt asiakkaat"
+      "value": "Näytä yhdistetyt pelaajat"
     },
     {
       "key": 192,
@@ -811,31 +811,31 @@
     },
     {
       "key": 201,
-      "value": "Tuli Torpedo"
+      "value": "Laukaise torpedo"
     },
     {
       "key": 202,
-      "value": "Alemmat keulan sukelluslentokoneet"
+      "value": "Laske keulan syvyysperäsin"
     },
     {
       "key": 203,
-      "value": "Nostetaan sukelluslentokoneita eteenpäin"
+      "value": "Nosta keulan syvyysperäsin"
     },
     {
       "key": 204,
-      "value": "Alempi peräsin Sukelluslentokoneet"
+      "value": "Laske perän syvyysperäsin"
     },
     {
       "key": 205,
-      "value": "Sukelluslentokoneiden perän nostaminen"
+      "value": "Nosta perän syvyysperäsin"
     },
     {
       "key": 206,
-      "value": "Vaihda taskulamppu"
+      "value": "Taskulamppu"
     },
     {
       "key": 207,
-      "value": "Toggle Recognition Manual"
+      "value": "Avaa tunnistus ohjekirja"
     },
     {
       "key": 208,
@@ -847,31 +847,31 @@
     },
     {
       "key": 210,
-      "value": "Sukelluslentokone keskellä eteenpäin"
+      "value": "Keskitä keulan syvyysperäsin"
     },
     {
       "key": 211,
-      "value": "Sukelluslentokone keskellä perää"
+      "value": "Keskitä perän syvyysperäsin"
     },
     {
       "key": 212,
-      "value": "Morse-avain"
+      "value": "Morse avain"
     },
     {
       "key": 213,
-      "value": "Morse Single Dot"
+      "value": "Morse yksittäinen piste"
     },
     {
       "key": 214,
-      "value": "Morse Single Dash"
+      "value": "Morse yksittäinen viiva"
     },
     {
       "key": 215,
-      "value": "Morse Jatkuvat pisteet"
+      "value": "Morse jatkuvat pisteet"
     },
     {
       "key": 216,
-      "value": "Morse Jatkuvat viivat"
+      "value": "Morse jatkuvat viivat"
     },
     {
       "key": 217,
@@ -887,167 +887,167 @@
     },
     {
       "key": 220,
-      "value": "Bot-valikko Toggle"
+      "value": "Botti valikko päälle"
     },
     {
       "key": 221,
-      "value": "Bot-valikko1"
+      "value": "Botti valikko1"
     },
     {
       "key": 222,
-      "value": "Bot Menu2"
+      "value": "Botti valikko2"
     },
     {
       "key": 223,
-      "value": "Botti Menu3"
+      "value": "Botti valikko3"
     },
     {
       "key": 224,
-      "value": "Kartta Nollaa matkamittari"
+      "value": "Kartan matkamittarin nollaus"
     },
     {
       "key": 225,
-      "value": "Karttasymboli-työkalu"
+      "value": "Kartan symboli työkalu"
     },
     {
       "key": 226,
-      "value": "Karttalinja-työkalu"
+      "value": "Kartan viiva työkalu"
     },
     {
       "key": 227,
-      "value": "Kartta ympyrä työkalu"
+      "value": "Kartan ympyrä työkalu"
     },
     {
       "key": 228,
-      "value": "Kartan kirjoitustyökalu"
+      "value": "Kartan kirjoitus työkalu"
     },
     {
       "key": 229,
-      "value": "Kartan kopiointiviivatyökalu"
+      "value": "Kartan kopiointiviiva työkalu"
     },
     {
       "key": 230,
-      "value": "Kartan pyyhekumi-työkalu"
+      "value": "Kartan pyyhekumi työkalu"
     },
     {
       "key": 231,
-      "value": "Karttaprotraktori työkalu"
+      "value": "Kartan astelevy työkalu"
     },
     {
       "key": 232,
-      "value": "Kartta Quicktool-symboli"
+      "value": "Kartan pikatyökalu symboli"
     },
     {
       "key": 233,
-      "value": "Kartta Quicktool Line"
+      "value": "Kartan pikatyökalu viiva"
     },
     {
       "key": 234,
-      "value": "Kartta Quicktool Circle"
+      "value": "Kartan pikatyökalu ympyrä"
     },
     {
       "key": 235,
-      "value": "Kartta Quicktool Kopioi linja"
+      "value": "Kartan pikatyökalu Kopioi linja"
     },
     {
       "key": 236,
-      "value": "Kartta Quicktool Eraser"
+      "value": "Kartan pikatyökalu pyyhekumi"
     },
     {
       "key": 237,
-      "value": "Kartta Quicktool-suuntima"
+      "value": "Kartan pikatyökalu astelevy"
     },
     {
       "key": 238,
-      "value": "Kartta Toggle Luonnos"
+      "value": "Kartan vapaapiirto työkalu"
     },
     {
       "key": 239,
-      "value": "Kartan mittatikku Seuraa"
+      "value": "Kartan astelevy seuraa"
     },
     {
       "key": 240,
-      "value": "Kartta Toggle Käänteinen kompassi"
+      "value": "Kartan käänteinen kompassi"
     },
     {
       "key": 241,
-      "value": "Kartta Aikatilan vaihtaminen"
+      "value": "Kartta näyttää aikatilan"
     },
     {
       "key": 242,
-      "value": "Kartta Toggle Näytä kulma"
+      "value": "Kartta näyttää kulman"
     },
     {
       "key": 243,
-      "value": "Kartan vaihtaminen Snap"
+      "value": "Kartan vaihtaminen"
     },
     {
       "key": 244,
-      "value": "Kartta Toggle Näytä etäisyys"
+      "value": "Kartta näyttää etäisyyden"
     },
     {
       "key": 245,
-      "value": "Kartan vaihtosymboli"
+      "value": "Kartta symboli"
     },
     {
       "key": 246,
-      "value": "Kartan nollaus mittatikun kierto"
+      "value": "Kartta nollaa astelevyn kierron"
     },
     {
       "key": 247,
-      "value": "Kartta Toggle Piirrä keskipisteestä"
+      "value": "Kartta piirrä keskipisteestä"
     },
     {
       "key": 248,
-      "value": "Kartta Toggle Polyline"
+      "value": "Kartta käyttää murtoviivaa"
     },
     {
       "key": 249,
-      "value": "Kartta Vaihda viivatyyli"
+      "value": "Kartta vaihda viivatyyli"
     },
     {
       "key": 250,
-      "value": "Kartta Toggle Näytä mittatikku"
+      "value": "Kartta näytä astelevy"
     },
     {
       "key": 251,
-      "value": "Kartta Syötä kulma ennen etäisyyttä"
+      "value": "Kartta syötä kulma ennen etäisyyttä"
     },
     {
       "key": 252,
-      "value": "Periskoopin päällekytkentä"
+      "value": "Periskoopin taulukko"
     },
     {
       "key": 253,
-      "value": "Vaihda Periscope Overlay"
+      "value": "Vaihda periskoopin taulukkoa"
     },
     {
       "key": 254,
-      "value": "Suurenna Periskoopin päällekkäisyyttä X 1"
+      "value": "Suurenna periskoopin taulukkoa  X 1"
     },
     {
       "key": 255,
-      "value": "Periskoopin päällekkäisyyden vähentäminen X 1"
+      "value": "Pienennä periskoopin taulukkoa X 1"
     },
     {
       "key": 256,
-      "value": "Suurenna Periscope Overlay X 10"
+      "value": "Suurenna periskoopin taulukkoa X 10"
     },
     {
       "key": 257,
-      "value": "Periskoopin päällekkäisyyden vähentäminen X 10"
+      "value": "Pienennä periskoopin taulukkoa X 10"
     },
     {
       "key": 258,
-      "value": "Periskoopin kirkkauden lisääminen"
+      "value": "Lisää periskoopin kirkkautta"
     },
     {
       "key": 259,
-      "value": "Periskooppi Brigthnessin vähentäminen"
+      "value": "Vähennä periskooppin kirkkautta"
     },
     {
       "key": 260,
-      "value": "Vaihda muistikirjaa"
+      "value": "Avaa muistikirja"
     },
     {
       "key": 261,
@@ -1055,7 +1055,7 @@
     },
     {
       "key": 262,
-      "value": "Loadout"
+      "value": "Varustus"
     },
     {
       "key": 263,
@@ -1303,7 +1303,7 @@
   "morsePairs": [
     {
       "key": 0,
-      "value": "Soitan kenelle tahansa"
+      "value": "Kutsutaan kenelle tahansa"
     },
     {
       "key": 1,
@@ -1311,11 +1311,11 @@
     },
     {
       "key": 9,
-      "value": "Over"
+      "value": "Loppu"
     },
     {
       "key": 2,
-      "value": "Roger"
+      "value": "Selvä"
     },
     {
       "key": 3,
@@ -1331,7 +1331,7 @@
     },
     {
       "key": 6,
-      "value": "Out"
+      "value": "Lopeta"
     },
     {
       "key": 7,
